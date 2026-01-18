@@ -1,21 +1,7 @@
 # 🌱 AI Crop Doctor
 
-<div align="center">
-
-![AI Crop Doctor](https://img.shields.io/badge/Hackathon-Winner-gold?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-orange?style=for-the-badge&logo=tensorflow)
-
-**🏆 Hackathon Winning Project by Team TITANIC**
-
-*Empowering farmers with AI-powered plant disease detection*
-
-[Live Demo](https://ai-crop-doctor-app.onrender.com/) • [Report Bug](https://github.com/2006anand/AI-Crop-Doctor/issues) • [Request Feature](https://github.com/2006anand/AI-Crop-Doctor/issues)
-
-</div>
-
----
+# Team TITANIC
+Tarang Kumar
 
 ## 📖 About the Project
 
