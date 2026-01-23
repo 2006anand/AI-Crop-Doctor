@@ -3,7 +3,7 @@
 # Team TITANIC
 Tarang Kumar
 Under Preview
-
+under 
 ## 📖 About the Project
 
 **AI Crop Doctor** is an intelligent web application that revolutionizes agricultural diagnostics by helping farmers, gardeners, and agricultural experts identify plant diseases from leaf images. By combining cutting-edge machine learning image analysis with context-based follow-up questions, it delivers accurate diagnoses and practical treatment suggestions.
